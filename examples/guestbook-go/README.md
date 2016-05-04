@@ -16,7 +16,7 @@
 <h2>PLEASE NOTE: This document applies to the HEAD of the source tree</h2>
 
 If you are using a released version of Kubernetes, you should
-refer to the docs that go with that version.
+refer to the docs that go with that version, duh!
 
 <!-- TAG RELEASE_LINK, added by the munger automatically -->
 <strong>
